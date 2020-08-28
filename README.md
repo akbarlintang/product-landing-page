@@ -1,6 +1,6 @@
 # Custom product landing page
 
-Here's the link to the page: 
+Here's the link to the page: https://akbarlintang.github.io/product-landing-page/
 
 The assets used are from various source on the internet
 
